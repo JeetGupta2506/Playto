@@ -33,7 +33,7 @@ const Post = ({ post, currentUser, onLike, onUnlike, onUpdate }) => {
     if (!commentContent.trim()) return;
 
     try {
-      const newComment = await commentAPI.create({
+      await commentAPI.create({
         post: post.id,
         author: currentUser,
         content: commentContent,

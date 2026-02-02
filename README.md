@@ -2,6 +2,11 @@
 
 A full-stack community discussion platform with threaded comments, gamification, and dynamic leaderboards.
 
+## 🚀 Live Demo
+
+- **Frontend:** [https://playto-gamma.vercel.app/](https://playto-gamma.vercel.app/)
+- **Backend API:** [https://playto-backend-ckeo.onrender.com/api](https://playto-backend-ckeo.onrender.com/api)
+
 ## Features
 
 - **Community Feed:** Text posts with author attribution and like counts
